@@ -11,14 +11,14 @@ int main() {
 	setlocale(LC_ALL, "ru");
 
 
-
+/*
 	Deanery k;
 
 	k.createGroup("PMI.txt");
 	k.createGroup("BI.txt");
 	k.createGroup("MEN.txt");
 	k.randMarks();
-	k.changeGroup("Евсеев Алексей Сергеевич", "BI");
+	k.changeGroup("Г…ГўГ±ГҐГҐГў ГЂГ«ГҐГЄГ±ГҐГ© Г‘ГҐГ°ГЈГҐГҐГўГЁГ·", "BI");
 	k.choiceHead();
 	k.badMarks();
 //	k.getStatistics();
@@ -26,6 +26,7 @@ int main() {
 
 
 	getchar();
+	*/
 	return 0;
 }
 
